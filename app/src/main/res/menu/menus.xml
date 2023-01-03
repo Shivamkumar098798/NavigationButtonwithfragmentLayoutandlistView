@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Movies"
+        android:id="@+id/movie"
+        android:icon="@drawable/movies"/>
+    <item
+        android:title="Music"
+        android:id="@+id/music"
+        android:icon="@drawable/music"/>
+
+    <item
+        android:title="webseries"
+        android:id="@+id/webseries"
+        android:icon="@drawable/webseries"/>
+
+    <item
+        android:title="Download_videos"
+        android:id="@+id/download_videos"
+        android:icon="@drawable/download"/>
+
+</menu>
